@@ -1,7 +1,7 @@
 
 ---
 
-# **Amazon USA Sales Analysis Project**
+# **Amazon  Sales Analysis Project**
 
 ### **Difficulty Level: Advanced**
 
