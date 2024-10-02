@@ -1,4 +1,3 @@
-# Amazon_SQL_Complex_Problem_Solving_
 
 ---
 
